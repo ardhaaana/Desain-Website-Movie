@@ -1,0 +1,24 @@
+Nama Website = Movie Review
+Deskripsi = Website ini menampilkan beberapa movie yang berisi sinopsis dan trailernya.
+Link Website =
+
+Sitemap
+Home
+ -Explore
+List Movie
+ -Sinopsis Extraction
+ -Sinopsis Bloodshot
+ -Sinopsis The Last Thing He Wanted
+ -Sinopsis The Last Days Of American Crime
+ -Sinopsis Hitman: Agent Jun
+ -Sinopsis Birds of Prey
+ -Sinopsis Lost Bullet
+Trailer
+ -Video Extraction
+ -Video Bloodshot
+ -Video The Last Thing He Wanted
+ -Video The Last Days Of American Crime
+ -Video The Hitman: Agent Jun
+ -Video The Birds of Prey
+ -Video The Lost Bullet
+About
